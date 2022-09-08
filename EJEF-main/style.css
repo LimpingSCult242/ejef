@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+}
+.navecao{
+background-color: black;
+color: white;
+font-size: 25px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navecao ol{
+list-style-type: none;
+display: flex;
+margin-right: 25px;
+}
+
+.navecao ol li{
+padding-left: 50px;
+}
+
+.navecao ol li:hover{
+color: rgb(109, 109, 5);
+cursor: pointer;
+}
+
+.navecao img{
+  width: 150px;
+}
+
+.banner{
+
+    background-image: url(EJEF/imagem\ 2.png);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+
+}
+    
+
+
+
+
+
+
+
